@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#ignoruj wszystkie pliki html i pliki tymczasowe quarto
+*.html
+/.quarto/
+
